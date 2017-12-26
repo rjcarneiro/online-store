@@ -1,0 +1,11 @@
+C:\git-training\online-store\OnlineStore\Presentation.Api\bin\Debug\netcoreapp2.0\Presentation.Api.deps.json
+C:\git-training\online-store\OnlineStore\Presentation.Api\bin\Debug\netcoreapp2.0\Presentation.Api.runtimeconfig.json
+C:\git-training\online-store\OnlineStore\Presentation.Api\bin\Debug\netcoreapp2.0\Presentation.Api.runtimeconfig.dev.json
+C:\git-training\online-store\OnlineStore\Presentation.Api\bin\Debug\netcoreapp2.0\Presentation.Api.dll
+C:\git-training\online-store\OnlineStore\Presentation.Api\bin\Debug\netcoreapp2.0\Presentation.Api.pdb
+C:\git-training\online-store\OnlineStore\Presentation.Api\obj\Debug\netcoreapp2.0\Presentation.Api.csprojResolveAssemblyReference.cache
+C:\git-training\online-store\OnlineStore\Presentation.Api\obj\Debug\netcoreapp2.0\Presentation.Api.csproj.CoreCompileInputs.cache
+C:\git-training\online-store\OnlineStore\Presentation.Api\obj\Debug\netcoreapp2.0\Presentation.Api.AssemblyInfoInputs.cache
+C:\git-training\online-store\OnlineStore\Presentation.Api\obj\Debug\netcoreapp2.0\Presentation.Api.AssemblyInfo.cs
+C:\git-training\online-store\OnlineStore\Presentation.Api\obj\Debug\netcoreapp2.0\Presentation.Api.dll
+C:\git-training\online-store\OnlineStore\Presentation.Api\obj\Debug\netcoreapp2.0\Presentation.Api.pdb
