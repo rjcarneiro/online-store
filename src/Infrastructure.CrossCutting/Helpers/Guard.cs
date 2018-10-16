@@ -6,7 +6,7 @@
     {
         public static void ArgumentIsNotNull(object value, string argument)
         {
-            if(value == null) throw new ArgumentNullException(argument);
+            if (value == null) throw new ArgumentNullException(argument);
         }
     }
 }
